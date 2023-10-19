@@ -1,6 +1,9 @@
 // JSON Server module
 const jsonServer = require("json-server");
-const server = jsonServer.create();
+const config = {
+    "db": "/tmp/db.json"
+};
+const server = jsonServer.create(config);
 const router = jsonServer.router("db.json");
 
 // Make sure to use the default middleware
