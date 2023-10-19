@@ -1,14 +1,6 @@
 // JSON Server module
 const jsonServer = require("json-server");
-const fs = require("fs");
-const path = require("path");
 
-const tmpDir = path.join(process.cwd(), "tmp"); // Chemin vers le dossier temporaire
-
-// Vérifiez si le dossier temporaire existe, sinon le crée
-if (!fs.existsSync(tmpDir)) {
-    fs.mkdirSync(tmpDir);
-}
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -17,9 +9,6 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
-
-server.use("/tmp", jsonServer.static(tmpDir));
-
 // Add this before server.use(router)
 server.use(
     // Add custom route here if needed
