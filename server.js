@@ -1,5 +1,12 @@
 // JSON Server module
 const jsonServer = require("json-server");
+
+// Créez le répertoire temporaire
+await fs.mkdir("./tmp", { recursive: true });
+
+// Vérifiez que le répertoire existe
+// await fs.exists("./tmp");
+
 const config = {
     "db": "/tmp/db.json"
 };
