@@ -1,0 +1,840 @@
+{
+    "entities": [
+        {
+            "id": "d68096d9-d210-42bd-812e-551bbeebd54b",
+            "fullName": "Howell, Lubowitz and Mosciski",
+            "activity": "24 hour",
+            "date": "2023-10-17T18:27:09.856Z",
+            "vat": "84042749",
+            "registrationNumber": "79014035",
+            "type": "corporate",
+            "group": "Reports",
+            "address": "Gabon",
+            "currency": "Aruban Guilder",
+            "jurisdiction": "PF",
+            "generalPartner": "Nitzsche - Kshlerin",
+            "assetsManager": "Schneider, O'Hara and Abbott",
+            "productType": "Chair",
+            "stats": {
+                "cash_in": "89.32",
+                "cash_out": "902.75"
+            },
+            "contacts": [
+                {
+                    "id": "cc6dcfd1-aee7-4832-811b-098ae1bd6861",
+                    "name": "Randolph Wisozk",
+                    "email": "Vivianne25@yahoo.com",
+                    "phone": "382.855.3185 x47118",
+                    "address": "Algeria"
+                },
+                {
+                    "id": "9435d16b-cf00-492f-a079-362f1771f26f",
+                    "name": "Elsie Kirlin",
+                    "email": "Rita28@yahoo.com",
+                    "phone": "302-615-5169 x64233",
+                    "address": "Cape Verde"
+                },
+                {
+                    "id": "ec9970b9-09a4-492f-a794-81dafca17c49",
+                    "name": "Erica Torp",
+                    "email": "Mia.Jenkins37@gmail.com",
+                    "phone": "778-329-3592 x546",
+                    "address": "Palestine"
+                },
+                {
+                    "id": "a9beceb4-4fe5-4c6e-86b6-25b84ecc5dc7",
+                    "name": "Penny Hettinger",
+                    "email": "Winnifred93@gmail.com",
+                    "phone": "1-813-793-2937 x499",
+                    "address": "Virgin Islands, British"
+                }
+            ],
+            "banks": [
+                {
+                    "id": "70e6bfba-4dcd-4ca5-b298-eabe378eb9e9",
+                    "name": "Home Loan Account",
+                    "email": "Alyson60@hotmail.com",
+                    "phone": "(444) 324-8542 x28737",
+                    "address": "France"
+                },
+                {
+                    "id": "8a335f05-c4ad-4be0-843e-2aa0db043757",
+                    "name": "Investment Account",
+                    "email": "Jasper_Carroll33@gmail.com",
+                    "phone": "(865) 514-2213 x58709",
+                    "address": "Algeria"
+                }
+            ],
+            "reports": [
+                {
+                    "id": "3c580e00-19de-4776-9556-35b6252d832e",
+                    "name": "Auto Loan Account",
+                    "email": "Ford.Heathcote@gmail.com",
+                    "phone": "216.830.2123 x3523",
+                    "address": "Paraguay"
+                },
+                {
+                    "id": "9b59bb58-8f34-4ca7-b9d6-2d324f8b28ad",
+                    "name": "Credit Card Account",
+                    "email": "Iva11@yahoo.com",
+                    "phone": "1-919-595-3806",
+                    "address": "Turkey"
+                },
+                {
+                    "id": "53cbb107-5de1-4396-b528-1f1a13ea8983",
+                    "name": "Credit Card Account",
+                    "email": "Olen_Lowe46@yahoo.com",
+                    "phone": "310.480.3032 x02007",
+                    "address": "Nepal"
+                }
+            ]
+        },
+        {
+            "id": "68ba63af-b2c1-4a20-affe-b69cb1e15aea",
+            "fullName": "Green Inc",
+            "activity": "eco-centric",
+            "date": "2023-10-17T11:35:08.487Z",
+            "vat": "80817701",
+            "registrationNumber": "15102847",
+            "type": "corporate",
+            "group": "Scan",
+            "address": "Guinea-Bissau",
+            "currency": "Afghani",
+            "jurisdiction": "MD",
+            "generalPartner": "Denesik and Sons",
+            "assetsManager": "Hegmann - Towne",
+            "productType": "Shirt",
+            "stats": {
+                "cash_in": "744.17",
+                "cash_out": "837.49"
+            },
+            "contacts": [
+                {
+                    "id": "934986f8-31ad-4107-8ec5-0a633514c647",
+                    "name": "Jimmy Kuhic-Collier",
+                    "email": "Cristopher_Rice58@hotmail.com",
+                    "phone": "(341) 954-4787 x07691",
+                    "address": "Mexico"
+                },
+                {
+                    "id": "73a01233-40d5-4e0c-97e4-599637fdedb8",
+                    "name": "Kenneth Green Sr.",
+                    "email": "Saul.Gutkowski66@hotmail.com",
+                    "phone": "390.813.9831 x098",
+                    "address": "Bhutan"
+                },
+                {
+                    "id": "069cc6d2-13dd-40c6-be84-b74c5352ee6b",
+                    "name": "Myrtle Zulauf",
+                    "email": "Doyle.Ledner@hotmail.com",
+                    "phone": "1-635-609-3341 x37078",
+                    "address": "Bahrain"
+                },
+                {
+                    "id": "39ee252f-96c9-404b-8aca-addec52b62df",
+                    "name": "Myron Cruickshank",
+                    "email": "Wilber_Bechtelar60@gmail.com",
+                    "phone": "(506) 301-2141 x31886",
+                    "address": "Moldova"
+                }
+            ],
+            "banks": [
+                {
+                    "id": "2737ddcd-ad0d-4ddf-9f53-512f5b369deb",
+                    "name": "Checking Account",
+                    "email": "Gregg.Nader@gmail.com",
+                    "phone": "385-709-0621 x88237",
+                    "address": "Bermuda"
+                },
+                {
+                    "id": "05852698-2afc-4ae0-a1eb-a9a6d6cb7a86",
+                    "name": "Savings Account",
+                    "email": "Margret52@yahoo.com",
+                    "phone": "646.941.3309 x28341",
+                    "address": "Sierra Leone"
+                }
+            ],
+            "reports": [
+                {
+                    "id": "68e45790-a09b-4892-b0b5-c27d6b3f6d8e",
+                    "name": "Credit Card Account",
+                    "email": "Cristobal.Hammes@gmail.com",
+                    "phone": "(629) 774-1153 x813",
+                    "address": "Bahrain"
+                },
+                {
+                    "id": "6a18980d-1ff0-4efc-89ab-c5a7278d4688",
+                    "name": "Money Market Account",
+                    "email": "Neoma_Trantow-Hilll@hotmail.com",
+                    "phone": "1-647-467-1805",
+                    "address": "Cape Verde"
+                },
+                {
+                    "id": "474a7900-246a-441f-a0a2-8aff07ac1b84",
+                    "name": "Investment Account",
+                    "email": "Bill.Homenick32@gmail.com",
+                    "phone": "843-201-7557",
+                    "address": "Niue"
+                }
+            ]
+        },
+        {
+            "id": "42d363bb-b789-4287-864b-1a0abcfa604f",
+            "fullName": "Lang - Anderson",
+            "activity": "bandwidth-monitored",
+            "date": "2023-10-17T14:28:52.824Z",
+            "vat": "30011025",
+            "registrationNumber": "66093502",
+            "type": "fund",
+            "group": "Reports",
+            "address": "Nauru",
+            "currency": "Lesotho Loti",
+            "jurisdiction": "AR",
+            "generalPartner": "Pagac - Heaney",
+            "assetsManager": "Koelpin, Buckridge and Russel",
+            "productType": "Keyboard",
+            "stats": {
+                "cash_in": "284.60",
+                "cash_out": "85.74"
+            },
+            "contacts": [
+                {
+                    "id": "f0b94067-fbb7-4fc3-8041-008b2eabae51",
+                    "name": "Dr. Marguerite Adams",
+                    "email": "Laurine_Hudson@gmail.com",
+                    "phone": "(797) 438-3740 x253",
+                    "address": "Sierra Leone"
+                },
+                {
+                    "id": "4bfecb40-e7c6-49a3-a408-e1080d62e33b",
+                    "name": "Nichole Lebsack",
+                    "email": "Chelsie.Smith@yahoo.com",
+                    "phone": "285.414.4305",
+                    "address": "Moldova"
+                },
+                {
+                    "id": "4e4fcdbb-c68c-43b2-93b1-4381e8f10d81",
+                    "name": "Otis Cummerata",
+                    "email": "Walker54@hotmail.com",
+                    "phone": "445.984.5276 x69911",
+                    "address": "Bolivia"
+                },
+                {
+                    "id": "fc4de0c0-5229-4eb6-a502-4af9a8f48c75",
+                    "name": "Shane Emard I",
+                    "email": "Zella_Cremin@yahoo.com",
+                    "phone": "1-523-279-7879 x47748",
+                    "address": "Kuwait"
+                }
+            ],
+            "banks": [
+                {
+                    "id": "6e1d5894-919a-4176-8844-f439de61fb44",
+                    "name": "Investment Account",
+                    "email": "Monica.Strosin21@gmail.com",
+                    "phone": "(261) 457-3991 x611",
+                    "address": "Nepal"
+                },
+                {
+                    "id": "9a35aa0e-d61c-45ec-b443-542662f79914",
+                    "name": "Home Loan Account",
+                    "email": "Barney.Carter23@yahoo.com",
+                    "phone": "915.804.0433 x691",
+                    "address": "Puerto Rico"
+                }
+            ],
+            "reports": [
+                {
+                    "id": "65bc63fd-c228-4ea8-8bdb-f770cd2ee8a0",
+                    "name": "Auto Loan Account",
+                    "email": "Claire_Ratke92@hotmail.com",
+                    "phone": "625-237-8457 x70039",
+                    "address": "Guatemala"
+                },
+                {
+                    "id": "90029f84-1cb6-4b6b-a428-365df3bb5607",
+                    "name": "Auto Loan Account",
+                    "email": "Darrin.Stamm8@hotmail.com",
+                    "phone": "(664) 233-4970",
+                    "address": "Madagascar"
+                },
+                {
+                    "id": "08be273e-1460-4aa1-aa03-e6b01f2e28b0",
+                    "name": "Personal Loan Account",
+                    "email": "Ursula.Koelpin-Nicolas70@gmail.com",
+                    "phone": "839-444-3898 x24801",
+                    "address": "Montenegro"
+                }
+            ]
+        }
+    ],
+    "currencies": [
+        {
+            "id": "7dce256b-f6c9-40d9-b963-f6e8549735db",
+            "name": "CUP",
+            "currentValue": "293.91",
+            "previousValue": "27.51",
+            "date": "2023-10-17T21:43:22.263Z"
+        },
+        {
+            "id": "733af4ab-73bd-4575-a522-c9f4ba84f585",
+            "name": "GNF",
+            "currentValue": "286.02",
+            "previousValue": "115.99",
+            "date": "2023-10-18T04:39:50.355Z"
+        },
+        {
+            "id": "7fa4d1dc-e7d4-4a42-be29-a1c85fb7ab8a",
+            "name": "RWF",
+            "currentValue": "12.34",
+            "previousValue": "675.52",
+            "date": "2023-10-17T20:50:31.727Z"
+        },
+        {
+            "id": "068aec8c-20ed-4809-9839-7e56105b3c45",
+            "name": "RSD",
+            "currentValue": "209.39",
+            "previousValue": "825.93",
+            "date": "2023-10-18T04:13:31.086Z"
+        },
+        {
+            "id": "7ab2c0a6-2f5e-40e4-aa84-4cf293e7eac6",
+            "name": "MYR",
+            "currentValue": "620.74",
+            "previousValue": "907.79",
+            "date": "2023-10-17T13:48:49.685Z"
+        },
+        {
+            "id": "3e1092db-9315-4bd5-8f8e-069ef30a4866",
+            "name": "GHS",
+            "currentValue": "891.91",
+            "previousValue": "335.19",
+            "date": "2023-10-17T19:24:33.952Z"
+        },
+        {
+            "id": "753774e3-5af9-45fe-be12-80491ce0cd85",
+            "name": "TMT",
+            "currentValue": "483.17",
+            "previousValue": "496.60",
+            "date": "2023-10-17T17:04:18.047Z"
+        }
+    ],
+    "documents": [
+        {
+            "id": "9b8b6668-62d6-42ff-a92f-d43bec29c577",
+            "type": {
+                "id": "6446722c-ef9d-476f-a1be-fcbac00a5483",
+                "label": "excel",
+                "description": "Tui ascit et baiulus.",
+                "created_at": "2023-10-18T03:44:31.244Z"
+            },
+            "transaction": "withdrawal",
+            "upload_by": "Amelia Romaguera",
+            "upload_date": "2023-10-17T12:19:48.852Z"
+        },
+        {
+            "id": "e040778d-4ca2-404f-b30b-6754d2637e51",
+            "type": {
+                "id": "ff6b9a86-ee4c-4a52-bdc0-b572b71e5fa1",
+                "label": "word",
+                "description": "Agnosco summa adicio degero cognatus omnis aeneus inflammatio.",
+                "created_at": "2023-10-18T01:22:44.070Z"
+            },
+            "transaction": "payment",
+            "upload_by": "Penny Schmidt",
+            "upload_date": "2023-10-17T19:03:10.017Z"
+        },
+        {
+            "id": "ea520e05-9adc-4ad1-9675-c91e140d1d69",
+            "type": {
+                "id": "d3a5a5ec-b53c-43cb-bb5d-69e39c8acb8e",
+                "label": "pdf",
+                "description": "Recusandae adeo creptio arcesso vehemens argentum volup strues centum.",
+                "created_at": "2023-10-18T00:45:29.465Z"
+            },
+            "transaction": "invoice",
+            "upload_by": "Dixie Flatley",
+            "upload_date": "2023-10-17T15:34:34.568Z"
+        },
+        {
+            "id": "55b4a2b5-ee23-4913-9dcc-93300e060cee",
+            "type": {
+                "id": "1ea9b683-1b23-453d-8999-c44b37d0c4d6",
+                "label": "excel",
+                "description": "Praesentium amicitia clementia causa conscendo temperantia decimus.",
+                "created_at": "2023-10-18T07:32:42.724Z"
+            },
+            "transaction": "withdrawal",
+            "upload_by": "Javier Nikolaus",
+            "upload_date": "2023-10-17T12:01:48.938Z"
+        },
+        {
+            "id": "4012d293-a6a5-4f54-b17c-1a95f5809fd3",
+            "type": {
+                "id": "f7c7b422-d369-4901-9120-cd0990973865",
+                "label": "pdf",
+                "description": "Decet tricesimus ventus desolo similique nihil desino.",
+                "created_at": "2023-10-17T23:59:40.447Z"
+            },
+            "transaction": "invoice",
+            "upload_by": "Clayton Klocko",
+            "upload_date": "2023-10-18T07:26:50.636Z"
+        },
+        {
+            "id": "4ed3383c-9796-4e06-8f7d-2834dc57053d",
+            "type": {
+                "id": "669d4626-3cc3-4e38-9a5b-df3906ca549b",
+                "label": "excel",
+                "description": "Cursus ustulo veritas suscipio attero cerno conculco.",
+                "created_at": "2023-10-17T23:00:16.139Z"
+            },
+            "transaction": "withdrawal",
+            "upload_by": "Shaun Medhurst",
+            "upload_date": "2023-10-18T05:46:49.116Z"
+        },
+        {
+            "id": "0475c43e-cfd0-4095-b01a-ea9569dbdd6a",
+            "type": {
+                "id": "a0a3a78c-9f45-459b-93e9-58e124b47261",
+                "label": "pdf",
+                "description": "Vorago adaugeo sollicito umerus.",
+                "created_at": "2023-10-18T07:44:46.157Z"
+            },
+            "transaction": "payment",
+            "upload_by": "Dr. Thomas O'Hara",
+            "upload_date": "2023-10-17T19:23:20.885Z"
+        }
+    ],
+    "groups": [
+        {
+            "id": "0ea77242-d37d-4eae-bcb0-f523e6353b2d",
+            "name": "Invoices",
+            "currency": "Lilangeni",
+            "jurisdiction": "DM",
+            "product": "Unbranded Wooden Salad",
+            "business": "Grocery",
+            "date": "2023-10-17T09:58:35.698Z"
+        },
+        {
+            "id": "48cc2803-a7e8-4e4e-87cd-126d89b9c42c",
+            "name": "Draff",
+            "currency": "Ethiopian Birr",
+            "jurisdiction": "MT",
+            "product": "Awesome Concrete Pizza",
+            "business": "Garden",
+            "date": "2023-10-17T10:53:14.552Z"
+        },
+        {
+            "id": "2cb89b01-817f-4923-936e-5a26c051c4c8",
+            "name": "Reports",
+            "currency": "CFA Franc BCEAO",
+            "jurisdiction": "CG",
+            "product": "Unbranded Fresh Pizza",
+            "business": "Shoes",
+            "date": "2023-10-17T10:06:49.001Z"
+        },
+        {
+            "id": "1ccadd37-a3f0-43b0-af98-46e75697c6fc",
+            "name": "Scan",
+            "currency": "Egyptian Pound",
+            "jurisdiction": "GH",
+            "product": "Handcrafted Soft Ball",
+            "business": "Automotive",
+            "date": "2023-10-17T15:44:07.528Z"
+        }
+    ],
+    "accounts": [
+        {
+            "id": "61d3f6dd-98c6-415a-ad59-a30cb0285701",
+            "iban": "BR6680070033006740520600531NC",
+            "balance": "461.90",
+            "last_transaction_date": "2023-10-18T03:08:07.959Z",
+            "date": "2023-10-17T20:50:00.433Z"
+        },
+        {
+            "id": "213c079a-6ab8-421e-952a-95a2e6f922ed",
+            "iban": "SI33372405080648086",
+            "balance": "509.39",
+            "last_transaction_date": "2023-10-18T01:36:47.816Z",
+            "date": "2023-10-17T16:44:42.518Z"
+        },
+        {
+            "id": "96a6c13b-199d-4f4a-aa66-e37ee299e8dc",
+            "iban": "LB740335T098708196B95S849J5T",
+            "balance": "151.97",
+            "last_transaction_date": "2023-10-18T07:45:14.104Z",
+            "date": "2023-10-18T00:37:08.108Z"
+        }
+    ],
+    "documents_type": [
+        {
+            "id": "3d3bc537-a459-4e52-9971-87ca06aeafab",
+            "label": "pdf",
+            "description": "Aiunt vulgivagus argentum ager sui decipio ter texo convoco attonbitus.",
+            "created_at": "2023-07-16T13:25:17.083Z"
+        },
+        {
+            "id": "fa81e5e7-560e-4582-bb0b-5751dc688573",
+            "label": "excel",
+            "description": "Fugiat velociter aegre vinitor pax solutio desparatus. Tempora vester molestiae succurro argentum tabernus. Ulciscor certe casso vir pecto somnus termes undique despecto appello.\nTabesco averto adstringo adflicto veritas dignissimos sophismata vulariter. Suggero tres commodo compono culpo inflammatio curis. Tertius venio exercitationem sopor tantum atavus abstergo convoco usitas corona.\nCognatus veritas abduco neque audentia uxor accommodo spes. Adamo varius curtus nihil deficio. Atavus stips decumbo voluptatum desparatus allatus altus vito bestia cito.",
+            "created_at": "2023-05-31T18:17:08.564Z"
+        },
+        {
+            "id": "c3745ef9-5ffe-4499-b12b-a983b9390bf5",
+            "label": "word",
+            "description": "Doloribus creta accusantium thesaurus vel ullus.\nConqueror contego voluptates tamdiu adipisci.\nDeserunt porro bestia temeritas aureus umquam deripio.\nPatruus ducimus condico cupio tollo admoveo aequitas voluntarius templum.\nCiminatio vulgo commemoro caelestis subnecto provident veritas.",
+            "created_at": "2023-01-27T16:27:02.103Z"
+        },
+        {
+            "id": "c0f61df4-bf56-4ef4-a80a-88295a84518e",
+            "label": "word",
+            "description": "Arto compono vomito arca.\nUter debitis agnosco tergum civis.\nTonsor veritatis summopere deinde demonstro conscendo trucido.",
+            "created_at": "2023-01-13T15:42:55.033Z"
+        },
+        {
+            "id": "0fade3f8-e3f5-4b1d-8233-64fcb5327fc3",
+            "label": "excel",
+            "description": "Coerceo trado bellum concedo demitto.",
+            "created_at": "2023-06-09T20:22:30.155Z"
+        },
+        {
+            "id": "4ebbf773-476a-43d7-aa3e-8f8c959a09fb",
+            "label": "excel",
+            "description": "Corporis corrupti ullam aeneus facere. Abduco depono aequus vociferor trans charisma quam deserunt. Depopulo voluptates calamitas non correptius vita molestias nam veritatis suasoria.",
+            "created_at": "2023-09-01T00:09:36.843Z"
+        }
+    ],
+    "documentTypes": [],
+    "incomes": [
+        {
+            "id": "36171932-37a5-470b-9e5d-db8e0c39b386",
+            "code": "864263614",
+            "description": "Refined",
+            "amount": "118.02",
+            "entity_type": "corporate"
+        },
+        {
+            "id": "e1bc89bc-1c42-4ffe-be44-3c78ec56e364",
+            "code": "178575946",
+            "description": "Gorgeous",
+            "amount": "144.43",
+            "entity_type": "bank"
+        },
+        {
+            "id": "f80743a0-ba9b-4751-bf33-5f7dfa9cb916",
+            "code": "273154660",
+            "description": "Handmade",
+            "amount": "216.49",
+            "entity_type": "bank"
+        }
+    ],
+    "reports": [
+        {
+            "id": "5122f062-f45a-4e32-a5d4-814ef9f4ce37",
+            "created_at": "2023-08-16T20:52:44.513Z",
+            "description": "Incredible",
+            "user": {
+                "id": "aeb36e3f-bf76-4381-a2ea-c443d6b4d3a8",
+                "name": "Margaret Hahn"
+            },
+            "assets": [
+                {
+                    "id": "6de66715-1ad9-442c-8722-d3aee585eb57",
+                    "year": 2,
+                    "current_assets": {
+                        "cash": "0.72",
+                        "account_receivable": "590.91",
+                        "inventory": "7.03",
+                        "short_term_investment": "238.30",
+                        "prepaid_experts": "179.78"
+                    },
+                    "fixed_assets": {
+                        "long_term_investment": "559.08",
+                        "land": "783.30",
+                        "buildings": "271.76",
+                        "plant_and_equipment": "181.90",
+                        "furniture_and_fixture": "217.20"
+                    },
+                    "current_liabilities": {
+                        "account_payable": "514.35",
+                        "short_term_note": "968.52",
+                        "current_portion": "850.11",
+                        "interet_payable": "278.32",
+                        "accrued_payroll": "229.94",
+                        "taxes_payable": "420.41"
+                    }
+                },
+                {
+                    "id": "6e3cc21d-0b7f-4cc0-90ce-b99df321daad",
+                    "year": 10,
+                    "current_assets": {
+                        "cash": "157.66",
+                        "account_receivable": "508.43",
+                        "inventory": "867.81",
+                        "short_term_investment": "627.13",
+                        "prepaid_experts": "840.52"
+                    },
+                    "fixed_assets": {
+                        "long_term_investment": "588.66",
+                        "land": "460.57",
+                        "buildings": "632.83",
+                        "plant_and_equipment": "969.37",
+                        "furniture_and_fixture": "710.21"
+                    },
+                    "current_liabilities": {
+                        "account_payable": "535.31",
+                        "short_term_note": "720.83",
+                        "current_portion": "61.04",
+                        "interet_payable": "263.69",
+                        "accrued_payroll": "753.66",
+                        "taxes_payable": "376.01"
+                    }
+                },
+                {
+                    "id": "da2492ac-8f15-4ab1-af7d-b85bf17c7e94",
+                    "year": 22,
+                    "current_assets": {
+                        "cash": "13.77",
+                        "account_receivable": "235.09",
+                        "inventory": "85.69",
+                        "short_term_investment": "389.90",
+                        "prepaid_experts": "628.25"
+                    },
+                    "fixed_assets": {
+                        "long_term_investment": "73.83",
+                        "land": "456.91",
+                        "buildings": "804.41",
+                        "plant_and_equipment": "659.91",
+                        "furniture_and_fixture": "844.26"
+                    },
+                    "current_liabilities": {
+                        "account_payable": "746.36",
+                        "short_term_note": "614.09",
+                        "current_portion": "202.97",
+                        "interet_payable": "953.74",
+                        "accrued_payroll": "64.62",
+                        "taxes_payable": "915.07"
+                    }
+                }
+            ],
+            "entity_type": "fund"
+        },
+        {
+            "id": "8286a8ef-dfac-4672-b54d-73ef4b202f4e",
+            "created_at": "2023-08-21T19:44:02.377Z",
+            "description": "Luxurious",
+            "user": {
+                "id": "6f1b5d76-5023-4352-a14e-f1d89a096366",
+                "name": "Dr. Inez Stamm"
+            },
+            "assets": [
+                {
+                    "id": "7541d745-d318-4a89-a1f2-87035b18b587",
+                    "year": 7,
+                    "current_assets": {
+                        "cash": "76.65",
+                        "account_receivable": "349.76",
+                        "inventory": "720.50",
+                        "short_term_investment": "98.97",
+                        "prepaid_experts": "994.85"
+                    },
+                    "fixed_assets": {
+                        "long_term_investment": "389.18",
+                        "land": "951.42",
+                        "buildings": "868.56",
+                        "plant_and_equipment": "679.36",
+                        "furniture_and_fixture": "797.25"
+                    },
+                    "current_liabilities": {
+                        "account_payable": "491.71",
+                        "short_term_note": "646.35",
+                        "current_portion": "306.94",
+                        "interet_payable": "431.51",
+                        "accrued_payroll": "830.16",
+                        "taxes_payable": "511.28"
+                    }
+                },
+                {
+                    "id": "7d91c716-448f-49c6-92e7-4b301a318764",
+                    "year": 27,
+                    "current_assets": {
+                        "cash": "21.78",
+                        "account_receivable": "109.16",
+                        "inventory": "159.36",
+                        "short_term_investment": "563.21",
+                        "prepaid_experts": "519.28"
+                    },
+                    "fixed_assets": {
+                        "long_term_investment": "599.86",
+                        "land": "196.51",
+                        "buildings": "194.87",
+                        "plant_and_equipment": "779.57",
+                        "furniture_and_fixture": "236.23"
+                    },
+                    "current_liabilities": {
+                        "account_payable": "56.44",
+                        "short_term_note": "390.13",
+                        "current_portion": "997.68",
+                        "interet_payable": "679.08",
+                        "accrued_payroll": "566.75",
+                        "taxes_payable": "927.36"
+                    }
+                },
+                {
+                    "id": "0030a46c-73f5-418b-a824-f705aa665b74",
+                    "year": 15,
+                    "current_assets": {
+                        "cash": "240.01",
+                        "account_receivable": "673.46",
+                        "inventory": "664.24",
+                        "short_term_investment": "933.31",
+                        "prepaid_experts": "423.90"
+                    },
+                    "fixed_assets": {
+                        "long_term_investment": "25.53",
+                        "land": "735.30",
+                        "buildings": "466.37",
+                        "plant_and_equipment": "764.64",
+                        "furniture_and_fixture": "659.25"
+                    },
+                    "current_liabilities": {
+                        "account_payable": "459.58",
+                        "short_term_note": "23.81",
+                        "current_portion": "728.70",
+                        "interet_payable": "310.02",
+                        "accrued_payroll": "242.75",
+                        "taxes_payable": "367.11"
+                    }
+                }
+            ],
+            "entity_type": "corporate"
+        }
+    ],
+    "cash_flow": {
+        "id": "77026a0f-9e0d-42c6-ac7d-bc699909f760",
+        "data": [
+            {
+                "id": "fec69df1-8213-403c-aff4-d07295e3b6c6",
+                "year": 17,
+                "operatin_activities": {
+                    "net_income": "285.16",
+                    "depreciation": "952.92",
+                    "deferred_taxes": "27.64",
+                    "account_receivable": "452.16",
+                    "others_assets_liabilities": "240.94",
+                    "inventory": "832.22"
+                },
+                "financing_activities": {
+                    "cash_dividents_paid": "917.89",
+                    "repurchase": "758.04",
+                    "issuance": "568.69",
+                    "change_in_current_debt": "100.81",
+                    "change_in_ling_term_debt": "955.58",
+                    "others_funds": "517.57"
+                },
+                "net_cash_flow": {
+                    "operating_cash_flow": "822.20",
+                    "capital": "30.43"
+                },
+                "free_cash_flow": "700.09"
+            },
+            {
+                "id": "4c3360a7-39db-4bc2-b958-559bd7b797ae",
+                "year": 18,
+                "operatin_activities": {
+                    "net_income": "282.49",
+                    "depreciation": "891.13",
+                    "deferred_taxes": "783.47",
+                    "account_receivable": "128.09",
+                    "others_assets_liabilities": "245.20",
+                    "inventory": "855.83"
+                },
+                "financing_activities": {
+                    "cash_dividents_paid": "54.70",
+                    "repurchase": "868.06",
+                    "issuance": "605.73",
+                    "change_in_current_debt": "906.11",
+                    "change_in_ling_term_debt": "279.85",
+                    "others_funds": "325.98"
+                },
+                "net_cash_flow": {
+                    "operating_cash_flow": "179.44",
+                    "capital": "45.48"
+                },
+                "free_cash_flow": "147.70"
+            }
+        ]
+    },
+    "reporting": [
+        {
+            "id": "4b5bfd92-5b80-430d-8749-cf5c01c034de",
+            "iban": "BR6223500127404480249790788W5",
+            "balance": "551.95",
+            "transaction_date": "2023-08-11T01:40:07.224Z",
+            "entity_type": "fund"
+        },
+        {
+            "id": "54ca0783-656f-4a79-b152-d7030e26822b",
+            "iban": "XK270084848547028531",
+            "balance": "935.98",
+            "transaction_date": "2023-01-20T22:21:40.338Z",
+            "entity_type": "bank"
+        },
+        {
+            "id": "f5a67d61-635a-4cb8-9fc7-6d031607d669",
+            "iban": "DE93567080558532902243",
+            "balance": "701.58",
+            "transaction_date": "2023-03-09T12:40:01.984Z",
+            "entity_type": "corporate"
+        },
+        {
+            "id": "85564af5-6bca-4bed-be43-6f5d78d7df70",
+            "iban": "IT10W7009580019716NW5599W66",
+            "balance": "634.02",
+            "transaction_date": "2023-05-11T03:27:45.402Z",
+            "entity_type": "fund"
+        },
+        {
+            "id": "6c16bd42-8a2b-4314-8304-f4121faf51ca",
+            "iban": "RS85009007128384338840",
+            "balance": "382.06",
+            "transaction_date": "2023-05-28T10:27:01.101Z",
+            "entity_type": "bank"
+        },
+        {
+            "id": "2263705e-81a4-4a67-9392-6f022ca0637c",
+            "iban": "DO21TWYS07881906028530056152",
+            "balance": "458.22",
+            "transaction_date": "2023-03-18T21:47:38.095Z",
+            "entity_type": "fund"
+        },
+        {
+            "id": "bb39c11e-858d-41a5-a52f-6360a4a45555",
+            "iban": "TR263614420029676890050584",
+            "balance": "767.32",
+            "transaction_date": "2023-07-27T12:56:22.330Z",
+            "entity_type": "corporate"
+        },
+        {
+            "id": "d66c93b5-bb01-45a0-b6ee-419aed4123b0",
+            "iban": "DE29436407496600603473",
+            "balance": "417.33",
+            "transaction_date": "2023-02-16T20:01:29.286Z",
+            "entity_type": "bank"
+        },
+        {
+            "id": "84db5dc8-29f3-4b7e-8add-f1f37acb2c6c",
+            "iban": "SE9006100814006009910814",
+            "balance": "247.95",
+            "transaction_date": "2023-03-22T10:19:49.514Z",
+            "entity_type": "bank"
+        },
+        {
+            "id": "60ec3ba1-cfd5-4841-a533-f774faa166e8",
+            "iban": "MC680050516388741B106264I77",
+            "balance": "872.58",
+            "transaction_date": "2023-02-08T05:37:57.092Z",
+            "entity_type": "bank"
+        }
+    ]
+}
